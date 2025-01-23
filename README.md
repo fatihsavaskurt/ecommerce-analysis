@@ -1,5 +1,3 @@
-# Creating a README.md file with the specified content
-
 # E-Commerce Data Analysis and Visualization
 
 This repository contains a project focused on analyzing and visualizing e-commerce data using Python libraries such as Pandas, Matplotlib, and NumPy. The goal of this project is to explore the data, derive insights, and present findings in an intuitive way.
